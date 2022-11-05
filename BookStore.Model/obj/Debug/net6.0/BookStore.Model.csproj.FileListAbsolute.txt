@@ -1,0 +1,14 @@
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.deps.json
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.runtimeconfig.json
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.dll
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.pdb
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.AssemblyReference.cache
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfoInputs.cache
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfo.cs
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.dll
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\refint\BookStore.Model.dll
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.pdb
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.genruntimeconfig.cache
+C:\Users\DrPampam\source\repos\BookStore\BookStore.Model\obj\Debug\net6.0\ref\BookStore.Model.dll
